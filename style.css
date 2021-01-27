@@ -12,3 +12,9 @@ html body {
     border: 2px solid black;
     text-align: center;
 }
+
+.pcol2 { 
+    background-color:rgb(165, 165, 165);
+    border: 1px solid rgb(85, 85, 85);
+    text-align: center;
+}
