@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {}
+
+.pcol { 
+    background-color:mediumpurple;
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: center;
+}
