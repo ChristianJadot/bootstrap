@@ -12,3 +12,6 @@ html body {
     border: 2px solid black;
     text-align: center;
 }
+p {
+    display: inline-block;
+}
