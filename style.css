@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+
+html body {
+    height: 100vh;
+}
+
+.pcol { 
+    background-color:mediumpurple;
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.pcol2 { 
+    background-color:rgb(165, 165, 165);
+    border: 1px solid rgb(85, 85, 85);
+    text-align: center;
+}
+
+@media screen and (max-width: 430px) {
+    .scrmd {display: none;}
+}
+@media screen and (min-width: 431px) {
+    .scrsm {display: none;}
+}
